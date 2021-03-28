@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "showtranslationinstances.helloWorld",
-				"title": "Hello World"
+				"title": "Show translation instances"
 			}
 		]
 	},

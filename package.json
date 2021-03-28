@@ -21,6 +21,8 @@
 			}
 		]
 	},
+	"publisher": "martinkraft",
+	"repository": "https://github.com/mkraft/vscode-mm-translationids",
 	"scripts": {
 		"vscode:prepublish": "npm run compile",
 		"compile": "tsc -p ./",
